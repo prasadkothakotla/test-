@@ -10,4 +10,4 @@ discount = 20
 
 print(calculate_discount(price, discount))
 
-print(price/0)
+print(price/0);
